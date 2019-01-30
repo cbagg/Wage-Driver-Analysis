@@ -1,0 +1,1 @@
+In this analysis I use additive regression with non-linear smoothing terms to describe the wage of employees in the mid-atlantic. 
